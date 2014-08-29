@@ -1,0 +1,28 @@
+{
+  "name": "has-getusermedia",
+  "version": "1.0.0",
+  "description": "This will simply return true if getUserMediaExists. It will also shim it in so you can use navigator.getUserMedia",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/has-getusermedia.git"
+  },
+  "keywords": [
+    "has",
+    "getusermedia",
+    "check",
+    "shim"
+  ],
+  "author": "Mikko Haapoja <me@mikkoh.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jam3/has-getusermedia/issues"
+  },
+  "homepage": "https://github.com/Jam3/has-getusermedia"
+}
