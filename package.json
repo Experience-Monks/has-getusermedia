@@ -1,6 +1,6 @@
 {
   "name": "has-getusermedia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This will simply return true if getUserMediaExists. It will also shim it in so you can use navigator.getUserMedia",
   "main": "index.js",
   "directories": {
